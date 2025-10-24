@@ -1,0 +1,10 @@
+services:
+  fluent-bit:
+    image: fluent/fluent-bit:latest
+    volumes:
+      - ./fluent-bit.conf:/fluent-bit/etc/fluent-bit.conf
+      - ./parsers.conf:/fluent-bit/etc/parsers.conf
+      - ./filters/suricata-enrich.lua:/fluent-bit/etc/suricata-enrich.lua
+      - ./test-data/eve.json:/var/log/suricata/eve.json:ro
+    command: /fluent-bit/bin/fluent-bit -c /fluent-bit/etc/fluent-bit.conf
+    
