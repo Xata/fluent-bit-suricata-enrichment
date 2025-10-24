@@ -80,6 +80,10 @@ There is a ```Read_from_Head    true``` line. In a production environment you wi
 - [Fluent Bit Lua Filter](https://docs.fluentbit.io/manual/data-pipeline/filters/lua)
 - [Fluent Bit Tail Input](https://docs.fluentbit.io/manual/data-pipeline/inputs/tail)
 
+## Contributing
+
+Contributions are welcome! See [CONTRIBUTING.md](/CONTRIBUTING.md) for guidelines.
+
 ## License
 
 Apache License 2.0: See [LICENSE](LICENSE) for details.
