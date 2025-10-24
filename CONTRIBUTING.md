@@ -127,7 +127,7 @@ Tested with Docker Compose against sample Suricata logs containing these categor
 
 ## AI Tools
 
-We welcome contributions created with AI assistance (ChatGPT, Claude, Copilot, etc.).
+Contributions created with AI assistance (ChatGPT, Claude, Copilot, etc.) are totally fine.
 
 **If you use AI tools, please:**
 
