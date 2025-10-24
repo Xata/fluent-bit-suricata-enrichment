@@ -124,3 +124,13 @@ Adds category mappings for new Suricata policy violation categories.
 Tested with Docker Compose against sample Suricata logs containing these categories.
 
 ```
+
+## AI Tools
+
+We welcome contributions created with AI assistance (ChatGPT, Claude, Copilot, etc.).
+
+**If you use AI tools, please:**
+
+1. **Mention it in your PR**: "Created with assistance from [tool name]"
+2. **Review and test** all AI-generated code before submitting
+3. **Take responsibility**: you're accountable for your contribution
