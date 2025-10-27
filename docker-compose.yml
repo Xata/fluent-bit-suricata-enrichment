@@ -7,4 +7,4 @@ services:
       - ./filters/suricata-enrich.lua:/fluent-bit/etc/suricata-enrich.lua
       - ./test-data/eve.json:/var/log/suricata/eve.json:ro
     command: /fluent-bit/bin/fluent-bit -c /fluent-bit/etc/fluent-bit.conf
-    
+

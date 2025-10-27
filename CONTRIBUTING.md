@@ -1,6 +1,6 @@
 # Contributing to Fluent Bit Suricata Enrichment
 
-Thank you for your interest in contributing! This project welcomes contributions from the community. The more people using open source alternatives the better! 
+Thank you for your interest in contributing! This project welcomes contributions from the community. The more people using open source alternatives the better!!
 
 ## How Can I Contribute?
 
